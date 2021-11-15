@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @javilujan2 and I am from Spain.
 - 👀 I’m interested in everything about frontend dev.
 - 🌱 I’m currently learning HTML5, CSS3 and in a next future JavaScript.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on something about frontend, and continue learning to this amazing world.  
 - 📫 How to reach me ...
 
 <!---
